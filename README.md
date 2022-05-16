@@ -8,7 +8,7 @@
 </div>
   
 <br>
-
+<!-- 
 <table>
 <tr>
 <th align = center>Visualization</th>
@@ -26,7 +26,7 @@
          
 </td>
 </tr>
-</table>
+</table> -->
 
  
 | Visualization | Type | Copy |
