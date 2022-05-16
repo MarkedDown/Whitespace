@@ -29,8 +29,8 @@
 </table> -->
 
  
-| Visualization | Type | Copy |
-| :------------ | :--: | :--: |
+| Visualization | Type |
+| :------------ | :--: | 
 | ██ | None |
 | █ █ | Hair | 
 | █ █ | Thin |
