@@ -28,6 +28,9 @@
 </tr>
 </table> -->
 
+<br>
+
+<div align = center>
  
 | Visualization | Type |
 | :------------ | :--: | 
@@ -42,5 +45,5 @@
 | █ █ | EM Space |
 | █ █ | EN Quad |
 
-
+</div>
 
